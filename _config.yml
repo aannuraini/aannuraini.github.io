@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title:            Ocu Kampar
+title:            Darah Sunda
 locale:           en_US
 #url:              http://localhost:4000
-url:              http://kampar.github.io
+url:              http://aannuraini.github.io
 
 
 # Jekyll configuration
@@ -27,21 +27,24 @@ kramdown:
 
 # Site owner
 owner:
-  name: Muhammad Jazman
+  name: Aan Nuraini
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: Nama : Aan Nuraini
+      TTL : Titian Tinggi, 10 Juni 1995
+      Jurusan : "http://sif.uin-suska.ac.id/."
+  Universitas : "http://uin-suska.ac.id/."
   email: 
   disqus-shortname: 
-  twitter: jazma101 #username
-  facebook: deactivate.py #username
+  twitter: aannur_aini #username
+  facebook: Aan Nur'aini #username
   google:
-    plus: kampar #username
+    plus: aannuraini #username
     analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: kampar #username
+  github: aannuraini #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
